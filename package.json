@@ -1,0 +1,29 @@
+{
+  "name": "atronomy",
+  "version": "1.0.0",
+  "description": "Final Project for astronomy, will be used as a helper for the class during the presentation",
+  "main": "astronomy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bailey0505/astronomy-final.git"
+  },
+  "keywords": [
+    "Astronomy",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Bailey Rotellini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bailey0505/astronomy-final/issues"
+  },
+  "homepage": "https://github.com/bailey0505/astronomy-final#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express-session": "^1.17.0"
+  }
+}
