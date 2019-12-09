@@ -38,7 +38,7 @@ app.engine('handlebars', exphbs());
 app.set('view engine', 'handlebars');
  
 
-app.set('port', process.env.PORT || 3002);
+app.set('port', process.env.PORT || 3001);
 
 app.get('/', function(req, res) { 
 	res.render('home');
